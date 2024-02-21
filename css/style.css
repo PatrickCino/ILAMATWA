@@ -632,12 +632,12 @@ body{
     cursor: pointer;
 } */
 
-
+/* 
 .team .row .card .image{
-   /*  margin: 1rem 0; */
-    /* padding-top: 2rem; */
+    margin: 1rem 0; 
+    padding-top: 2rem; 
 }
-
+*/
 .team .row .card .image img{
     height: 40rem;
     width: 35rem;
